@@ -1,0 +1,7 @@
+[user]
+	name = wassou93
+	email = wassou93@live.fr
+[credential]
+	helper = cache --timeout=25000
+[push]
+	default = simple
